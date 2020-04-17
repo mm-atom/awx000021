@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000021",
-	"version": "1.0.202004031128",
+	"version": "1.0.202004170926",
 	"description": "下载文件",
 	"scripts": {
 		"test": "tsc -w",
